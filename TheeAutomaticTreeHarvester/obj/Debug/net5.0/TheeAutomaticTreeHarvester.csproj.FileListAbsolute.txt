@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\TheeAutomaticTreeHarvester.exe
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\TheeAutomaticTreeHarvester.deps.json
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\TheeAutomaticTreeHarvester.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\TheeAutomaticTreeHarvester.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\TheeAutomaticTreeHarvester.dll
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\ref\TheeAutomaticTreeHarvester.dll
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\bin\Debug\net5.0\TheeAutomaticTreeHarvester.pdb
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.dll
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\ref\TheeAutomaticTreeHarvester.dll
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.pdb
+C:\Users\s2001037\source\repos\TheeAutomaticTreeHarvester\obj\Debug\net5.0\TheeAutomaticTreeHarvester.genruntimeconfig.cache

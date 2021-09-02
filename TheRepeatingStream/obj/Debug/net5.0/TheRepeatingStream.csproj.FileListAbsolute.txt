@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\TheRepeatingStream.exe
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\TheRepeatingStream.deps.json
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\TheRepeatingStream.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\TheRepeatingStream.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\TheRepeatingStream.dll
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\ref\TheRepeatingStream.dll
+C:\Users\s2001037\source\repos\TheRepeatingStream\bin\Debug\net5.0\TheRepeatingStream.pdb
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.dll
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\ref\TheRepeatingStream.dll
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.pdb
+C:\Users\s2001037\source\repos\TheRepeatingStream\obj\Debug\net5.0\TheRepeatingStream.genruntimeconfig.cache

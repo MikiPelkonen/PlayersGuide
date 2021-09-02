@@ -1,0 +1,15 @@
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\TheLawsOfFreach.exe
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\TheLawsOfFreach.deps.json
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\TheLawsOfFreach.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\TheLawsOfFreach.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\TheLawsOfFreach.dll
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\ref\TheLawsOfFreach.dll
+C:\Users\s2001037\source\repos\TheLawsOfFreach\bin\Debug\net5.0\TheLawsOfFreach.pdb
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.dll
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\ref\TheLawsOfFreach.dll
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.pdb
+C:\Users\s2001037\source\repos\TheLawsOfFreach\obj\Debug\net5.0\TheLawsOfFreach.genruntimeconfig.cache

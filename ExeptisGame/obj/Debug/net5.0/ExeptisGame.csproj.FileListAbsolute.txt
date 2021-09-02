@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ExeptisGame.exe
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ExeptisGame.deps.json
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ExeptisGame.runtimeconfig.json
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ExeptisGame.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ExeptisGame.dll
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ref\ExeptisGame.dll
+C:\Users\s2001037\source\repos\ExeptisGame\bin\Debug\net5.0\ExeptisGame.pdb
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.dll
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ref\ExeptisGame.dll
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.pdb
+C:\Users\s2001037\source\repos\ExeptisGame\obj\Debug\net5.0\ExeptisGame.genruntimeconfig.cache

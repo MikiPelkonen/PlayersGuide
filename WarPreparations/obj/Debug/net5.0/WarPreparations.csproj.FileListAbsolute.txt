@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\WarPreparations.exe
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\WarPreparations.deps.json
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\WarPreparations.runtimeconfig.json
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\WarPreparations.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\WarPreparations.dll
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\ref\WarPreparations.dll
+C:\Users\s2001037\source\repos\WarPreparations\bin\Debug\net5.0\WarPreparations.pdb
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.dll
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\ref\WarPreparations.dll
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.pdb
+C:\Users\s2001037\source\repos\WarPreparations\obj\Debug\net5.0\WarPreparations.genruntimeconfig.cache

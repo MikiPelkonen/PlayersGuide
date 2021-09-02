@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\TheThreeLenses.exe
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\TheThreeLenses.deps.json
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\TheThreeLenses.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\TheThreeLenses.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\TheThreeLenses.dll
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\ref\TheThreeLenses.dll
+C:\Users\s2001037\source\repos\TheThreeLenses\bin\Debug\net5.0\TheThreeLenses.pdb
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.dll
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\ref\TheThreeLenses.dll
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.pdb
+C:\Users\s2001037\source\repos\TheThreeLenses\obj\Debug\net5.0\TheThreeLenses.genruntimeconfig.cache

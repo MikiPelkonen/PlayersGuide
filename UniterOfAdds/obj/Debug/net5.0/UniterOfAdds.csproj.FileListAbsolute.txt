@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\UniterOfAdds.exe
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\UniterOfAdds.deps.json
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\UniterOfAdds.runtimeconfig.json
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\UniterOfAdds.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\UniterOfAdds.dll
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\ref\UniterOfAdds.dll
+C:\Users\s2001037\source\repos\UniterOfAdds\bin\Debug\net5.0\UniterOfAdds.pdb
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.dll
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\ref\UniterOfAdds.dll
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.pdb
+C:\Users\s2001037\source\repos\UniterOfAdds\obj\Debug\net5.0\UniterOfAdds.genruntimeconfig.cache

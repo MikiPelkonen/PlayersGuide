@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\TheFeud.exe
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\TheFeud.deps.json
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\TheFeud.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\TheFeud.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\TheFeud.dll
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\ref\TheFeud.dll
+C:\Users\s2001037\source\repos\TheFeud\bin\Debug\net5.0\TheFeud.pdb
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.dll
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\ref\TheFeud.dll
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.pdb
+C:\Users\s2001037\source\repos\TheFeud\obj\Debug\net5.0\TheFeud.genruntimeconfig.cache

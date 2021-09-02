@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\TicTacToe2.exe
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\TicTacToe2.deps.json
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\TicTacToe2.runtimeconfig.json
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\TicTacToe2.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\TicTacToe2.dll
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\ref\TicTacToe2.dll
+C:\Users\s2001037\source\repos\TicTacToe2\bin\Debug\net5.0\TicTacToe2.pdb
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.dll
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\ref\TicTacToe2.dll
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.pdb
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.genruntimeconfig.cache
+C:\Users\s2001037\source\repos\TicTacToe2\obj\Debug\net5.0\TicTacToe2.csproj.AssemblyReference.cache

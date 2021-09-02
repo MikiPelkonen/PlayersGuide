@@ -1,0 +1,15 @@
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\BetterRandom.exe
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\BetterRandom.deps.json
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\BetterRandom.runtimeconfig.json
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\BetterRandom.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\BetterRandom.dll
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\ref\BetterRandom.dll
+C:\Users\s2001037\source\repos\BetterRandom\bin\Debug\net5.0\BetterRandom.pdb
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.dll
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\ref\BetterRandom.dll
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.pdb
+C:\Users\s2001037\source\repos\BetterRandom\obj\Debug\net5.0\BetterRandom.genruntimeconfig.cache

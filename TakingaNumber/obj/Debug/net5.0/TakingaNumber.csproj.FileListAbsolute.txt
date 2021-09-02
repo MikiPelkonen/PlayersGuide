@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\TakingaNumber.exe
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\TakingaNumber.deps.json
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\TakingaNumber.runtimeconfig.json
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\TakingaNumber.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\TakingaNumber.dll
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\ref\TakingaNumber.dll
+C:\Users\s2001037\source\repos\TakingaNumber\bin\Debug\net5.0\TakingaNumber.pdb
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.dll
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\ref\TakingaNumber.dll
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.pdb
+C:\Users\s2001037\source\repos\TakingaNumber\obj\Debug\net5.0\TakingaNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\TheClocktower.exe
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\TheClocktower.deps.json
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\TheClocktower.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\TheClocktower.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\TheClocktower.dll
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\ref\TheClocktower.dll
+C:\Users\s2001037\source\repos\TheClocktower\bin\Debug\net5.0\TheClocktower.pdb
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.dll
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\ref\TheClocktower.dll
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.pdb
+C:\Users\s2001037\source\repos\TheClocktower\obj\Debug\net5.0\TheClocktower.genruntimeconfig.cache

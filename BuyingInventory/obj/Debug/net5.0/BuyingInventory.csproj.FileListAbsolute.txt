@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\BuyingInventory.exe
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\BuyingInventory.deps.json
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\BuyingInventory.runtimeconfig.json
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\BuyingInventory.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\BuyingInventory.dll
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\ref\BuyingInventory.dll
+C:\Users\s2001037\source\repos\BuyingInventory\bin\Debug\net5.0\BuyingInventory.pdb
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.dll
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\ref\BuyingInventory.dll
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.pdb
+C:\Users\s2001037\source\repos\BuyingInventory\obj\Debug\net5.0\BuyingInventory.genruntimeconfig.cache

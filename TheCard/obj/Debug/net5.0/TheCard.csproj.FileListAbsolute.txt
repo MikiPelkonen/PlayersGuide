@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\TheCard.exe
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\TheCard.deps.json
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\TheCard.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\TheCard.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\TheCard.dll
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\ref\TheCard.dll
+C:\Users\s2001037\source\repos\TheCard\bin\Debug\net5.0\TheCard.pdb
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.dll
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\ref\TheCard.dll
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.pdb
+C:\Users\s2001037\source\repos\TheCard\obj\Debug\net5.0\TheCard.genruntimeconfig.cache

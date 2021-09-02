@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\NavigatingOperandCity.exe
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\NavigatingOperandCity.deps.json
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\NavigatingOperandCity.runtimeconfig.json
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\NavigatingOperandCity.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\NavigatingOperandCity.dll
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\ref\NavigatingOperandCity.dll
+C:\Users\s2001037\source\repos\NavigatingOperandCity\bin\Debug\net5.0\NavigatingOperandCity.pdb
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.dll
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\ref\NavigatingOperandCity.dll
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.pdb
+C:\Users\s2001037\source\repos\NavigatingOperandCity\obj\Debug\net5.0\NavigatingOperandCity.genruntimeconfig.cache

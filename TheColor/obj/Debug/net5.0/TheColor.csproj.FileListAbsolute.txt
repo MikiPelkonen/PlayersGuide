@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\TheColor.exe
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\TheColor.deps.json
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\TheColor.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\TheColor.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\TheColor.dll
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\ref\TheColor.dll
+C:\Users\s2001037\source\repos\TheColor\bin\Debug\net5.0\TheColor.pdb
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.dll
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\ref\TheColor.dll
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.pdb
+C:\Users\s2001037\source\repos\TheColor\obj\Debug\net5.0\TheColor.genruntimeconfig.cache

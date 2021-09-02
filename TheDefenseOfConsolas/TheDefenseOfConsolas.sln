@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDefenseOfConsolas", "TheDefenseOfConsolas.csproj", "{6F192698-A003-40CC-A792-C47FBDA228FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F192698-A003-40CC-A792-C47FBDA228FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F192698-A003-40CC-A792-C47FBDA228FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F192698-A003-40CC-A792-C47FBDA228FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F192698-A003-40CC-A792-C47FBDA228FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E43B58-A088-4B97-B6DE-0CCF5C31AFF7}
+	EndGlobalSection
+EndGlobal

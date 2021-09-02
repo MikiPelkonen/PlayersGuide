@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\TheVariableShop.exe
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\TheVariableShop.deps.json
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\TheVariableShop.runtimeconfig.json
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\TheVariableShop.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\TheVariableShop.dll
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\ref\TheVariableShop.dll
+C:\Users\s2001037\source\repos\TheVariableShop\bin\Debug\net5.0\TheVariableShop.pdb
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.dll
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\ref\TheVariableShop.dll
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.pdb
+C:\Users\s2001037\source\repos\TheVariableShop\obj\Debug\net5.0\TheVariableShop.genruntimeconfig.cache

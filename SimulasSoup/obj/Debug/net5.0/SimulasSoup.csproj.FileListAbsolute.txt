@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\SimulasSoup.exe
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\SimulasSoup.deps.json
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\SimulasSoup.runtimeconfig.json
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\SimulasSoup.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\SimulasSoup.dll
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\ref\SimulasSoup.dll
+C:\Users\s2001037\source\repos\SimulasSoup\bin\Debug\net5.0\SimulasSoup.pdb
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.csprojAssemblyReference.cache
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.dll
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\ref\SimulasSoup.dll
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.pdb
+C:\Users\s2001037\source\repos\SimulasSoup\obj\Debug\net5.0\SimulasSoup.genruntimeconfig.cache

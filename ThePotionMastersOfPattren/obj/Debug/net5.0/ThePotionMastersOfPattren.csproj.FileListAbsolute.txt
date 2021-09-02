@@ -1,0 +1,16 @@
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ThePotionMastersOfPattren.exe
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ThePotionMastersOfPattren.deps.json
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ThePotionMastersOfPattren.runtimeconfig.json
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ThePotionMastersOfPattren.runtimeconfig.dev.json
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ThePotionMastersOfPattren.dll
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ref\ThePotionMastersOfPattren.dll
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\bin\Debug\net5.0\ThePotionMastersOfPattren.pdb
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.csproj.AssemblyReference.cache
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.AssemblyInfoInputs.cache
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.AssemblyInfo.cs
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.csproj.CoreCompileInputs.cache
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.dll
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ref\ThePotionMastersOfPattren.dll
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.pdb
+C:\Users\s2001037\source\repos\ThePotionMastersOfPattren\obj\Debug\net5.0\ThePotionMastersOfPattren.genruntimeconfig.cache
